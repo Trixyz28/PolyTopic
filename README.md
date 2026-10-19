@@ -1,6 +1,6 @@
 # PolyTopic
 
-Official repository for the paper **"PolyTopic: Extending Topic Modeling with Multi-Topic Assignment"**.
+Official repository for the work **"Adaptive Multi-Topic Assignment for Document Representation: The PolyTopic Approach"**.
 
 PolyTopic is a framework designed to handle documents with multiple topics by leveraging state-of-the-art topic modeling techniques and evaluating them using Large Language Models (LLMs).
 
@@ -59,8 +59,10 @@ Detailed analysis and visualizations can be found in the `notebooks/` directory:
 *   `Arxiv.ipynb`, `DBpedia.ipynb`, `Reuters.ipynb`: Dataset-specific analysis.
 *   `compute_diversity.ipynb`: In-depth look at topic diversity metrics.
 *   `display_results.ipynb`: Visualization of final results.
+*   `generate_visualizations.ipynb`: Generation of visual representations for document-topic relationships.
 
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
